@@ -1,0 +1,10 @@
+
+
+0.1.0:
+  - Tested, working
+  - Converted Thunk related components into propertly typed TS
+  - Converted everything (except Thunk) into properly typed TS
+  - Converted everything (left) from components into hooks
+  - Converted all of Redux into properly typed TS
+  - Copied over the src from Redux JS hooks
+  - Got ts + redux up and running
